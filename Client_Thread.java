@@ -1,4 +1,4 @@
-package _20200102_Biorhythm_TCP;
+package _20210102_Biorhythm_TCP;
 
 import java.awt.Color;
 import java.io.BufferedReader;
@@ -47,7 +47,7 @@ public class Client_Thread extends Thread {
 		}
 	}
 
-	public void run() { // ¹ÞÀº°Å
+	public void run() { // Â¹ÃžÃ€ÂºÂ°Ã…
 		while (true) {
 			try {
 				String str = br.readLine();
