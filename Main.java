@@ -1,9 +1,10 @@
-package _20210101_Bioryhthm;
+package _20210104_ScoreManagement;
 
 public class Main {
 
 	public static void main(String[] args) {
-		Biorhythm b = new Biorhythm();
+		ScoreManagement sm = new ScoreManagement();
+
 	}
 
 }
