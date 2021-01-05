@@ -1,10 +1,9 @@
-package _20210104_ScoreManagement;
+package _20210105_WordCounter;
 
 public class Main {
 
 	public static void main(String[] args) {
-		ScoreManagement sm = new ScoreManagement();
-
+		WordCounter wc = new WordCounter();
 	}
 
 }
