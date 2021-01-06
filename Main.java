@@ -1,9 +1,9 @@
-package _20210105_WordCounter;
+package _20210106_TicTacToe;
 
 public class Main {
 
 	public static void main(String[] args) {
-		WordCounter wc = new WordCounter();
+		TicTacToe ttt = new TicTacToe();
 	}
 
 }
